@@ -1,3 +1,3 @@
-# plugin-fathom-analytics
+# Bellows Fathom Analytics Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/fathom-analytics](https://bellows.dev/docs/plugins/fathom-analytics)
